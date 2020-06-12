@@ -49,13 +49,13 @@ curl https://i.jpillora.com/chisel\! | bash
 
 These are various tools I like to use that can be cloned from Git. I prefer to put everything in the `/opt` directory.
 
-https://github.com/danielmiessler/SecLists
-https://github.com/irsdl/iis-shortname-scanner/
-https://github.com/andrew-d/static-binaries
-https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite
-https://github.com/NotMedic/NetNTLMtoSilverTicket/
-https://github.com/evilmog/ntlmv1-multi
-https://github.com/internetwache/GitTools
+- https://github.com/danielmiessler/SecLists
+- https://github.com/irsdl/iis-shortname-scanner/
+- https://github.com/andrew-d/static-binaries
+- https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite
+- https://github.com/NotMedic/NetNTLMtoSilverTicket/
+- https://github.com/evilmog/ntlmv1-multi
+- https://github.com/internetwache/GitTools
 
 ## Docker
 
