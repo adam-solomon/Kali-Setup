@@ -102,4 +102,5 @@ source ~/.zshrc
 ## Firefox Extensions
 
 **Wappalyzer** - Easily detects web app software in use.
+
 **FoxyProxy Standard** - Allows for easy switching between no proxy and something like a Burp proxy.
