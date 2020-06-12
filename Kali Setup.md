@@ -33,6 +33,10 @@ sudo gem install evil-winrm
 sudo pip3 install bloodhound
 ```
 
+## Sysinternals
+
+Download this ZIP file and extract it somewhere so the tools are easily available.
+
 https://download.sysinternals.com/files/SysinternalsSuite.zip
 
 ## Chisel
