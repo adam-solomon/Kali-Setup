@@ -1,5 +1,3 @@
-Kali Setup
-
 # Kali Linux Setup
 
 This is a list of commands and stuff to install on a Kali 2020.2 installation. Kali comes with many pre-installed applications and services, but I install a lot of extra tools for CTF's and pen test engagements.
